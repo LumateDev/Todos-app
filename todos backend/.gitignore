@@ -1,0 +1,6 @@
+/env/
+
+# IntellijIdea files
+*.iml
+.idea
+out
