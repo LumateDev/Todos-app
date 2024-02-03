@@ -28,7 +28,7 @@ function App() {
     <>
       <div className="bg-indigo-100 px-8 min-h-screen">
         <nav className="pt-8">
-          <h1 className="text-5xl text-center pb-12">Task list</h1>
+          <h1 className="text-5xl text-center pb-12">текст для юры</h1>
         </nav>
         <TodoForm fetchData={fetchData} />
         <Table todos={todos} setTodos={setTodos} isLoading={isLoading} />
